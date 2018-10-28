@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Fields
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Student = new Student();
+                
+
+            
+        }
+        public class Student
+            {
+            private string NAME;
+            private int ID;
+            private float GPA;
+            }
+    }
+}
